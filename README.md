@@ -1,3 +1,1 @@
-### Find me around the web 🌎:
-
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/allan-salmasso-61757069/">LinkedIn</a>.
+![Snake animation](https://github.com/rafaballerini/salmasso08/blob/output/github-contribution-grid-snake.svg)
